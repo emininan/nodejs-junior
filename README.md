@@ -1,2 +1,3 @@
 # nodejs-junior
-learning nodejs
+learning nodejs.
+nodejs öğreniyorum.
